@@ -17,3 +17,17 @@ reviewers:
 - yliaog
 labels:
 - sig/api-machinery
+
+security_contacts:
+- github: caesarxuchao
+  email: null
+  slack: null
+- github: deads2k
+  email: null
+  slack: null
+- github: lavalamp
+  email: null
+  slack: null
+- github: sttts
+  email: null
+  slack: null
